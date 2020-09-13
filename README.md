@@ -5,10 +5,10 @@
 
 ## I'm a Mobile Software Engineer :)
 
-- 🔭 I’m currently working as a Software Engineer @Nubank
-- 🌱 I’m currently learning iOS and Game Development 🤣
-- 🥅 2020 Goals: Start a Youtube Channel about Computer Science
-- ⚡ Fun fact: I love filmmaking 
+- 🔭  I’m currently working as a Software Engineer @Nubank
+- 🌱  I’m currently learning iOS and Game Development 🤣
+- 🥅  2020 Goals: Start a Youtube Channel about Computer Science
+- ⚡   Fun fact: I love filmmaking 
 
 ### Connect with me:
 
