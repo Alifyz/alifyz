@@ -5,10 +5,10 @@
 
 ## I'm a Mobile Software Engineer :)
 
-- 🔭  I’m currently working as a Software Engineer @Nubank
-- 🌱  I’m currently learning iOS and Game Development 🤣
-- 🥅  2020 Goals: Start a Youtube Channel about Computer Science
-- ⚡   Fun fact: I love filmmaking 
+- 🔭 . I’m currently working as a Software Engineer @Nubank
+- 🌱 . I’m currently learning iOS and Game Development 🤣
+- 🥅 . 2020 Goals: Start a Youtube Channel about Computer Science
+- ⚡  . Fun fact: I love filmmaking 
 
 ### Connect with me:
 
@@ -61,14 +61,13 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Andorid MVP Architecture](https://www.alifyz.com/arquitetura-mvp-android/)
+- [Android Room Database Tutorial](https://www.alifyz.com/room-database-android/)
+- [Android Jetpack - ViewModels](https://www.alifyz.com/android-jetpack-viewmodel/)
+- [Android Networking - REST](https://www.alifyz.com/networking-retrofit-android/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://www.alifyz.com)
 
 ---
 
