@@ -57,7 +57,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Andorid MVP Architecture](https://www.alifyz.com/arquitetura-mvp-android/)
+- [Android MVP Architecture](https://www.alifyz.com/arquitetura-mvp-android/)
 - [Android Room Database Tutorial](https://www.alifyz.com/room-database-android/)
 - [Android Jetpack - ViewModels](https://www.alifyz.com/android-jetpack-viewmodel/)
 - [Android Networking - REST](https://www.alifyz.com/networking-retrofit-android/)
