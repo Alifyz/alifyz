@@ -7,7 +7,7 @@
 
 - 🔭 . I’m currently working as a Software Engineer @Nubank
 - 🌱 . I’m currently learning Game Development 🤣
-- 🥅 . 2020 Goals: Maybe start a youtube channel?
+- 🥅 . 2021 Goals: Maybe start a company?
 - ⚡  . Fun fact: I love filmmaking 
 
 ### Connect with me:
