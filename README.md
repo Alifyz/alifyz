@@ -44,8 +44,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Flutter - Live Codelab (Criando um iFood Clone)](https://www.youtube.com/watch?v=ti44xkLzhf8)
-- [v3](https://www.youtube.com/watch?v=nC9SwdgzsuA)
 - [NavController](https://www.youtube.com/watch?v=wLaCLSWQkYg)
 - [Tutorial: Creating TabLayout + ViewPager using Fragments Android](https://www.youtube.com/watch?v=LcbBaUixVsw)
 <!-- YOUTUBE:END -->
