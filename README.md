@@ -5,9 +5,7 @@
 
 ## I'm a Mobile Software Engineer :)
 
-- 🔭 . I’m currently working as a Software Engineer @Nubank
-- 🌱 . I’m currently learning Game Development 🤣
-- 🥅 . 2021 Goals: Maybe start a company?
+- 🔭 . I’m currently working as a Mobile Software Engineer
 - ⚡  . Fun fact: I love filmmaking 
 
 ### Connect with me:
